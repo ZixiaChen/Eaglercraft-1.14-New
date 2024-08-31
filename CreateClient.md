@@ -4,8 +4,8 @@
 
 Are you ready to personalize your CLIENT and take it to the next level? Follow these steps:
 
-📦 Edit the `package.json` File:
-- Open the `package.json` file for your CLIENT.
+📦 Edit the `client-package.json` File:
+- Open the `client-package.json` file for your CLIENT.
 - Customize the client according to your creative vision.
 
 🎨 Add Your Client's Source Code:
