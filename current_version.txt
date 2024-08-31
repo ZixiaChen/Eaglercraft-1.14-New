@@ -1,6 +1,11 @@
-Build Version: V 0.0.3-alpha
-Eagtek Version: 4.0
+Debug Update: 0.1.3
+Build Version: V 0.0.4-alpha
+Eagtek Version: 4.2
+Eagtek Patch: 4.2.1
 Ravetek Version: 1.0
-Socket Version: 2.3
-Released at 6-10-23
-Released by : AR-DEV-1 , Lead Dev , EaglerDevs
+Socket Version: 2.5
+Socket Patch: 2.5.2
+Released at 31-8-2024
+Released by : AR-DEV-1 , Lead Dev , EaglerDevs For Eaglercraft 1.14
+All rights reserved. Eagtek Versions and Patches and Socket version and patches are created by the Eagler Devs.
+New Note : WE ARE BACK!
